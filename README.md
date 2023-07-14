@@ -1,6 +1,6 @@
 ![Amoudou Banner](asset/banner.png)
 
-## Hi there, I'm Adhavane 👋
+## Hi there, I'm Adhavane/Amoudou 🙌
 
 ### 👨🏻‍💻 About me
 
