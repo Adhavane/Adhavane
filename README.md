@@ -46,5 +46,4 @@
 ### 📈 Stats
 
 ![Adhavane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhavane&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhavane&layout=compact&theme=dark)
