@@ -1,4 +1,4 @@
-![Amoudou Banner](asset/banner.png)
+![Amoudou Banner](assets/banner.png)
 
 ## Hi there, I'm Adhavane/Amoudou 🙌
 
